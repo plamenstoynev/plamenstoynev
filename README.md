@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [Here in GitHub](Here in GitHub)
+- 👨‍💻 All of my projects are available at [Here in GitHub]
 
 - ⚡ Fun fact **I'm one of the funiest person on the planet**
 
