@@ -1,5 +1,8 @@
-<h1 align="center">Hello, there ![kenobi-pog](https://github.com/plamenstoynev/plamenstoynev/assets/79408379/badcae85-bfe2-4911-a395-576e4793320e)
-, I'm Plamen Stoynev</h1>
+<h1 align="center">Hello, there,
+  
+  ![kenobi-pog](https://github.com/plamenstoynev/plamenstoynev/assets/79408379/ab4063c6-116c-4164-a460-39db2c1731f0)
+
+  I'm Plamen Stoynev</h1>
 <h3 align="center">Software engineer in the making</h3>
 
 - 🌱 I’m currently learning **C++**
