@@ -5,11 +5,14 @@
   I'm Plamen Stoynev</h1>
 <h3 align="center">Software engineer in the making</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Information Systems at FMI of Sofia University**
 
 - 👨‍💻 All of my projects are available at [Here in GitHub](Here in GitHub)
 
 - ⚡ Fun fact **I'm one of the funiest person on the planet**
+
+- ![grogu-baby-yoda](https://github.com/plamenstoynev/plamenstoynev/assets/79408379/b0152819-9305-494a-b591-4cfab66b5a0f)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
