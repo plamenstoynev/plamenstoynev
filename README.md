@@ -5,7 +5,7 @@
   I'm Plamen Stoynev</h1>
 <h3 align="center">Software engineer in the making</h3>
 
-- 🏫 I’m currently learning **Information Systems at FMI of Sofia University**
+- 🏫 I’m currently learning **Information Systems at FMI of Sofia University (2nd year)**
 
 - 👨‍💻 All of my projects are available at [Here in GitHub]
 
