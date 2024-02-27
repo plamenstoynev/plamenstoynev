@@ -1,4 +1,4 @@
-<h1 align="center">Hello, there,
+<h1 align="center">Hello there,
   
   ![kenobi-pog](https://github.com/plamenstoynev/plamenstoynev/assets/79408379/ab4063c6-116c-4164-a460-39db2c1731f0)
 
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I'm one of the funiest person on the planet**
 
-  <h3 alingn = " center ">
+  <h3 alingn = "center">
     
     ![grogu-baby-yoda](https://github.com/plamenstoynev/plamenstoynev/assets/79408379/b0152819-9305-494a-b591-4cfab66b5a0f)
   
