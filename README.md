@@ -11,7 +11,11 @@
 
 - ⚡ Fun fact **I'm one of the funiest person on the planet**
 
-  <h3 alingn = " center ">![grogu-baby-yoda](https://github.com/plamenstoynev/plamenstoynev/assets/79408379/b0152819-9305-494a-b591-4cfab66b5a0f)</h3>
+  <h3 alingn = " center ">
+    
+    ![grogu-baby-yoda](https://github.com/plamenstoynev/plamenstoynev/assets/79408379/b0152819-9305-494a-b591-4cfab66b5a0f)
+  
+  </h3>
 
 
 <h3 align="left">Connect with me:</h3>
