@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Here in GitHub]
 
-- ⚡ Fun fact **I'm one of the funiest person on the planet**
+- ⚡ Fun fact **I'm one of the funniest person on the planet**
 
   <h3 align="center">Wish me luck!🥺🥺🥺
 
