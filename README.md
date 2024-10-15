@@ -3,9 +3,9 @@
   ![kenobi-pog](https://github.com/plamenstoynev/plamenstoynev/assets/79408379/ab4063c6-116c-4164-a460-39db2c1731f0)
 
   I'm Plamen Stoynev</h1>
-<h3 align="center">Software engineer in the making</h3>
+<h3 align="center">Some sort of programmer in the making</h3>
 
-- 🏫 I’m currently learning **Information Systems at FMI of Sofia University (2nd year)**
+- 🏫 I’m currently learning **Information Systems at FMI of Sofia University (3rd year)**
 
 - 👨‍💻 All of my projects are available at [Here in GitHub]
 
